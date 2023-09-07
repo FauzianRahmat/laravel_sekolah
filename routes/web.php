@@ -1,7 +1,7 @@
 <?php
 
-use App\Http\Controllers\PerpustakaanController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PerpustakaanController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('dashboard');
 
 Route::get('/perpustakaan/anggota', [PerpustakaanController::class, 'anggota'])->name('get_anggota');
 
