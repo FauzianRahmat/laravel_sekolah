@@ -4,6 +4,6 @@
         Anything you want
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2023 <a href="https://www.instagram.com/dmrrstyo">zyan</a>.</strong> All rights
+    <strong>Copyright &copy; 2023 <a href="https://www.instagram.com/fauzyanrahmat">zyan</a>.</strong> All rights
     reserved.
 </footer>

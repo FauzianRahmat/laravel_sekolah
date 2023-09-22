@@ -76,7 +76,7 @@
 
                                 @empty
                                 <tr>
-                                    <td>Data Masih Kosong</td>
+                                    <td>data masih kosong</td>
                                 </tr>
                                 @endforelse
                             </tbody>
